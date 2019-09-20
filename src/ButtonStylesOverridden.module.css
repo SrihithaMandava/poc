@@ -1,0 +1,8 @@
+.defaultButton {
+    color: white;
+    background-color: #9ccc3d;
+    margin: 10px;
+    border-radius: 4px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
